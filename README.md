@@ -14,6 +14,7 @@ star rating 8/10 from IMDB.
 
 ### Dependencies and versions
 PYTHON 3.8
+(check requirements.txt for all dependencies)
 
 |Package   |  version  |
 |-----------|-----------|
@@ -22,10 +23,7 @@ PYTHON 3.8
 |numpy    |1.19.2 |
 |pandas   |1.2.0 |
 |keras    |2.4.3 |
-|keras-base   |2.4.3 |
-|keras-preprocessing   |1.1.0 |
 |tensorflow    |2.3.0  |
-|tensorflow-base   |2.3.0  |
 
 ### Instructions for running
 - Run the main.py file, this is the starting point of the file 
