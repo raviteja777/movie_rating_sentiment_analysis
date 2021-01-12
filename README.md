@@ -11,3 +11,25 @@ unique id and [rating] is the star rating for that review on a 1-10 scale. For e
 [train/pos/205_8.txt] is the text for a positive-labeled test set example with unique id 205 and
 star rating 8/10 from IMDB.
 </p>
+
+### Dependencies and versions
+PYTHON 3.8
+
+|Package   |  version  |
+|-----------|-----------|
+|spacy    |2.3.5 |
+|sikit-learn 	 |0.23.2 |
+|numpy    |1.19.2 |
+|pandas   |1.2.0 |
+|keras    |2.4.3 |
+|keras-base   |2.4.3 |
+|keras-preprocessing   |1.1.0 |
+|tensorflow    |2.3.0  |
+|tensorflow-base   |2.3.0  |
+
+### Instructions for running
+- Run the main.py file, this is the starting point of the file 
+- Automatically the train and test phases will run 
+- Please note the data folder only contains some sample files ,to run it on whole of the data please paste all the data in the data folders
+- The trained keras model will be saved in saved_models folder with name model_(timestamp) 
+- Similary the metrics as well as any other execution information will be logged in a log file in files folder timestamp.log file , check for latest log file
