@@ -32,4 +32,4 @@ PYTHON 3.8
 - Automatically the train and test phases will run 
 - Please note the data folder only contains some sample files ,to run it on whole of the data please paste all the data in the data folders
 - The trained keras model will be saved in saved_models folder with name model_(timestamp) 
-- Similary the metrics as well as any other execution information will be logged in a log file in files folder timestamp.log file , check for latest log file
+- The metrics as well as any other execution information will be printed on console , also they will be logged in a log file in "files" folder as timestamp.log file (check for latest log)
