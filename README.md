@@ -19,7 +19,7 @@ PYTHON 3.8
 |Package   |  version  |
 |-----------|-----------|
 |spacy    |2.3.5 |
-|sikit-learn 	 |0.23.2 |
+|scikit-learn 	 |0.23.2 |
 |numpy    |1.19.2 |
 |pandas   |1.2.0 |
 |keras    |2.4.3 |
